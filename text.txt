@@ -1,6 +1,5 @@
 text prueba
 
-hola 
 
 Seguiremos probando los commit
 vivo en el salvador
